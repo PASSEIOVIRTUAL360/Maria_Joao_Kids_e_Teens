@@ -20,7 +20,7 @@
       <hotspot pan="-0.67767" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node2}" distance="3.51623" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -45,7 +45,7 @@
       <hotspot pan="1.44491" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node3}" distance="4.38359" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -70,7 +70,7 @@
       <hotspot pan="-0.157417" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node4}" distance="5.17837" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -96,7 +96,7 @@
       <hotspot pan="1.02315" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point03" url="{node6}" distance="6.12893" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -121,7 +121,7 @@
       <hotspot pan="53.5338" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node6}" distance="4.19823" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -147,7 +147,7 @@
       <hotspot pan="-1.44803" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point03" url="{node7}" distance="4.78341" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -172,7 +172,7 @@
       <hotspot pan="0.573681" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node8}" distance="4.37333" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -198,7 +198,7 @@
       <hotspot pan="32.7134" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point03" url="{node9}" distance="4.97749" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -222,7 +222,7 @@
       <hotspot pan="-509.017" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node8}" distance="4.97749" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
@@ -246,7 +246,7 @@
       <hotspot pan="190.416" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node8}" distance="4.35933" skinid="ht_node" tilt="0"/>
     </hotspots>
     <media/>
-    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="7" type="mesh" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
     <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
     <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
   </panorama>
