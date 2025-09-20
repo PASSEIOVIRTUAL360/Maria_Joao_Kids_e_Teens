@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="21009" start="node1" hassounds="0" appversion="7.1.10">
+  <panorama id="node1">
+    <input levelingpitch="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="3.40624" projection="4" fov="100" tilt="-1.43159"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.325361" customnodeid="" heading="0" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node1" tags="OFIIII" latitude="-10.190833" datetime="17/09/2025 09:49" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-0.67767" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node2}" distance="3.51623" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelingpitch="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32536062" customnodeid="" heading="0" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node2" tags="OFIIII" latitude="-10.19080138" datetime="17/09/2025 09:51" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="179.322" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node1}" distance="3.51623" skinid="ht_node" tilt="0"/>
+      <hotspot pan="1.44491" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node3}" distance="4.38359" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelingpitch="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32536163" customnodeid="" heading="0" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node3" tags="OFIIII" latitude="-10.19076197" datetime="17/09/2025 09:52" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-178.555" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node2}" distance="4.38359" skinid="ht_node" tilt="0"/>
+      <hotspot pan="-0.157417" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node4}" distance="5.17837" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelingpitch="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32536150" customnodeid="" heading="0" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node4" tags="OFIIII" latitude="-10.19071540" datetime="17/09/2025 09:53" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="179.843" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node3}" distance="5.17837" skinid="ht_node" tilt="0"/>
+      <hotspot pan="-41.964" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node5}" distance="4.88557" skinid="ht_node" tilt="0"/>
+      <hotspot pan="1.02315" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point03" url="{node6}" distance="6.12893" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelingpitch="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32533165" customnodeid="" heading="0" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node5" tags="OFIIII" latitude="-10.19068273" datetime="17/09/2025 09:54" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="138.036" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node4}" distance="4.88557" skinid="ht_node" tilt="0"/>
+      <hotspot pan="53.5338" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node6}" distance="4.19823" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelingpitch="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-27.1564">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32536250" customnodeid="" heading="-27.1564" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node6" tags="OFIIII" latitude="-10.19066029" datetime="17/09/2025 09:55" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-206.133" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node4}" distance="6.12893" skinid="ht_node" tilt="0"/>
+      <hotspot pan="-153.623" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node5}" distance="4.19823" skinid="ht_node" tilt="0"/>
+      <hotspot pan="-1.44803" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point03" url="{node7}" distance="4.78341" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelingpitch="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-28.9303">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32538146" customnodeid="" heading="-28.9303" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node7" tags="OFIIII" latitude="-10.19062153" datetime="17/09/2025 09:56" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-183.222" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node6}" distance="4.78341" skinid="ht_node" tilt="0"/>
+      <hotspot pan="0.573681" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node8}" distance="4.37333" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelingpitch="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-31.12">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32540114" customnodeid="" heading="-31.12" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node8" tags="OFIIII" latitude="-10.19058730" datetime="17/09/2025 10:02" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-181.616" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node7}" distance="4.37333" skinid="ht_node" tilt="0"/>
+      <hotspot pan="-32.6737" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point02" url="{node10}" distance="4.35933" skinid="ht_node" tilt="0"/>
+      <hotspot pan="32.7134" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point03" url="{node9}" distance="4.97749" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input levelingpitch="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="-392.85">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32544196" customnodeid="" heading="-392.85" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node9" tags="OFIIII" latitude="-10.19056756" datetime="17/09/2025 10:05" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="-509.017" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node8}" distance="4.97749" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input levelingpitch="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2000" levelbiashidpi="1.000" levelingroll="0" levelbias="0.400" height="2000" overlap="1" leveltilesize="510">
+      <level width="2000" preload="0" predecode="0" height="2000"/>
+      <level width="1000" preload="0" predecode="0" height="1000"/>
+      <level width="500" preload="1" predecode="1" height="500"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="11.9692">
+      <start pan="0" projection="4" fov="100" tilt="0"/>
+      <flyin pan="0" projection="9" fov="170" tilt="-90"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" scaletofit="1" fov="140" fovstereographic="330" fovfisheye="360" tilt="90"/>
+    </view>
+    <userdata longitude="-48.32540006" customnodeid="" heading="11.9692" description="" comment="" title="Maria João - Kids e Teens" altitude="249.00" copyright="" nodeid="node10" tags="OFIIII" latitude="-10.19054811" datetime="17/09/2025 10:09" source="" author="" info=""/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label enabled="1" textalpha="1" backgroundalpha="1" textcolor="0x000000" backgroundcolor="0xffffff" borderalpha="1" width="180" background="1" bordercolor="0x000000" borderradius="1" height="20" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" backgroundalpha="0.25098" handcursor="1" backgroundcolor="0x0000ff" borderalpha="1"/>
+      <hotspot pan="190.416" description="" target="$fwd" title="Maria João - Kids e Teens" id="Point01" url="{node8}" distance="4.35933" skinid="ht_node" tilt="0"/>
+    </hotspots>
+    <media/>
+    <transition enabled="1" zoomoutpause="1" zoomspeed="2" zoomafteroutfov="40" blendcolor="0x000000" softedge="0" zoomin="0" type="crossdissolve" zoomfov="40" delay="none" zoomafterinfov="140" zoomout="0" blendtime="1"/>
+    <animation useinautorotation="0" animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0"/>
+    <control lockedkeyboardzoom="0" sensitivity="8" dblclickfullscreen="0" zoomcentercursor="1" invertwheel="0" lockedkeyboard="0" contextvr="1" lockedwheel="0" contextfullscreen="1" speedwheel="1" rubberband="0" invertcontrol="1" hideabout="0" contextprojections="0" lockedmouse="0" simulatemass="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" description="" comment="" tags="" title="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
